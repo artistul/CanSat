@@ -1,9 +1,9 @@
-####################################################################################
+##################################
   
    Team: Volta Circuits  
    Author: Tonegari Stefan   
 
-#####################################################################################
+##################################
 
 The code starts of with including all the necessary libraries and declaring variables. We then move on to defining all the pins according to a set of predefined rules:
   1) Separate every module with a comment
